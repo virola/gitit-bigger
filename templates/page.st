@@ -15,11 +15,11 @@
         <meta name="poweredby" content="https://github.com/shajiquan/gitit-bigger">
     </head>
     <body>
-        <div class="container">
+        <div class="container-fluid container">
             $header_nav()$
         </div>
 
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
                 <div class="col-md-10 " id="maincol">
 
